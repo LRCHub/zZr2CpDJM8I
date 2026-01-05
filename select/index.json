@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "つづら折り",
+  "base_artist": "女王蜂",
+  "createdAt": "2026-01-05T13:38:43.798376Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "つづら折り",
+      "artist": "女王蜂",
+      "has_synced": false,
+      "path": "select/01_つづら折り_女王蜂.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "つづら折り",
+      "artist": "女王蜂",
+      "has_synced": false,
+      "path": "select/pl_01_つづら折り_女王蜂.txt"
+    }
+  ]
+}
